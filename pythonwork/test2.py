@@ -1,7 +1,7 @@
-name = "Lisa"
-if name == "Lisa"
-    print name, "plays saxophone"
-elif name == "Bart":
-    print name, "rides skateboard"
+name = 'Ag'
+if name == 'Fred':
+    print 'Hi Fred'
+elif name == 'Ag':
+    print 'Hello'
 else:
-    print name, "lives in Springfield"
+    print 'who are you?'
