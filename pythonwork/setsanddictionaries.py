@@ -22,6 +22,6 @@ print d.items()
 print d.keys()
 print d.values()
 print d.get("maggie","nowhere")
-print d.get("ringo","nowhere")
+print d.get("ringo")
 res = d.setdefault("mikhail","ussr")
 print res, d["mikhail"]
